@@ -56,19 +56,19 @@ From above Dataframe, we see that there is Multicollinearity in our Data for- De
 
 # MODELS-
 ----------------------------------------------------------
-➔ ## Linear Regression
+## ➔ Linear Regression
 
 ![184524500-f1bf770b-7ddc-497a-b400-cdb0fd166323](https://user-images.githubusercontent.com/95495685/185735682-ecc9f889-bd6b-41f6-a44b-9b2852a1972a.png)
 
-➔ ## Decision Tree regressors
+## ➔ Decision Tree regressors
 ![184524519-da3e58e9-27a3-4c7d-8f35-834724b7f45e](https://user-images.githubusercontent.com/95495685/185735696-70db23b0-4b62-4b77-84ae-f2ba05496d3a.png)
 
 
-➔ ## Random Forest Regressors
+## ➔ Random Forest Regressors
 
 ![184524536-aaeb6c4e-eefc-452e-87e5-21055d689c6f](https://user-images.githubusercontent.com/95495685/185735707-d7c74453-42d7-47eb-b505-faa5a787da49.png)
 
-➔ ## Gradient Boosting Regressors
+## ➔ Gradient Boosting Regressors
 
 ![184524542-3371aed0-b89d-4c41-96e2-afd65263f0cb](https://user-images.githubusercontent.com/95495685/185735718-32c0d870-9ad9-4bd6-81c5-68a6260a4824.png)
 
@@ -79,7 +79,9 @@ From above Dataframe, we see that there is Multicollinearity in our Data for- De
 # Conclusions-
 --------------------------------------------------------------
 ❏ Overall, we observe that, Linear Regression model and Lasso Regression model are worst fitted models as their accuracy is less than 50% whereas, Random Forest Regressor and Gradient Boosting Regressor are the best fitted model for the train and test data set.
+
 ❏ Random Forest Regressor has the accuracy rate of train data set 98% and test data set 81%. Also, MSE is 463.08 for the train data set and 280.61 for the test data set. After, hyperparameter tuning the accuracy rate gives the similar result for the train and test data set. 
+
 ❏ Gradient Boosting Regressor has the accuracy rate of train data set 79% and test data set 77%. Also,MSE is 463.08 for the train data set and 309.65 for the test data set. With hyperparameter tuning the accuracy of the model increases and RMSE decreases which implies that the model fitted is the best model for higher accuracy rate of regression models with the predictions.
 
 ## With Hyperparameter tuning-
@@ -87,6 +89,7 @@ From above Dataframe, we see that there is Multicollinearity in our Data for- De
 Accuracy of the model of train data set is 90%
 Accuracy of the model of test data set is 80%
 RMSE of the model of train data set is 463.08
-RMSE of the model of test data set is 285.46 ● Among all the above models we conclude that Gradient Boosting Regressor(With hyperparameter tuning) is the best fitted model for Seoul Bike Rental Prediction data set.
+RMSE of the model of test data set is 285.46 
+● Among all the above models we conclude that Gradient Boosting Regressor(With hyperparameter tuning) is the best fitted model for Seoul Bike Rental Prediction data set.
 
 # Thank You..!!
