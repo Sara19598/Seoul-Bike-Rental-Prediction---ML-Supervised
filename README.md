@@ -72,7 +72,7 @@ From above Dataframe, we see that there is Multicollinearity in our Data for- De
 
 ![184524542-3371aed0-b89d-4c41-96e2-afd65263f0cb](https://user-images.githubusercontent.com/95495685/185735718-32c0d870-9ad9-4bd6-81c5-68a6260a4824.png)
 
-● ## Hyperparameter Tuning-
+## ● Hyperparameter Tuning-
 ![184524552-a8d4b3c8-a389-49ea-a051-a18ac8aa23d3](https://user-images.githubusercontent.com/95495685/185735730-9b7ddafc-305c-4903-9e18-8977f4335038.png)
 
 
